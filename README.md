@@ -12,6 +12,7 @@ En este curso vemos de todo
 * Las personalidades multiples de Freddy
 * Creado por el increible platzi team
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
 
 
 Y como un amable recordatorio. **Este readme .md es un chiste.** Diseñado para el ejemplo. 
